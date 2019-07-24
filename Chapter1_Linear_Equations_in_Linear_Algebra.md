@@ -37,7 +37,7 @@
 
 ### 1.3 VECTOR Equations
 
-- !['Algbra of Properties of Rn'](img\1.png)
+- ![](img/1.png)
 
 - ![Linear Combination](img/2.png)
 
