@@ -37,7 +37,15 @@
 
 ### 1.3 VECTOR Equations
 
+- !['Algbra of Properties of Rn'](img\1.png)
 
+- ![Linear Combination](img/2.png)
 
-  
+  This is called a **Linear Combination** of **v1,....,vp** with wights C1，...,Cp
+
+- ![](img/3.png)
+
+- ![](img\4.png)
+
+### 1.4 The MATRIX EQUATION Ax = b （Read it next time...）
 
