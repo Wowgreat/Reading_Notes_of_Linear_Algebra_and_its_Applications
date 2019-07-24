@@ -1,3 +1,5 @@
+### 1.1 and 1.2
+
 1. A **system of linear equations** is said to be consistent if it has either one solution or infinitely many solutions; a system is inconsistent if it has no solution.
 
 2. Two matrices are called row equivalent if there is a sequence of elementary row operations that transforms one matrix into the other.
@@ -20,7 +22,7 @@
 
    (5). Each leading 1 is the only nonzero entry in its column
 
-5.  Each matrix is row equivalent to  one and only one reduced echelon matrix
+5. Each matrix is row equivalent to  one and only one reduced echelon matrix
 
 6. A pivot position in a matrix A is a location in A that corresponds to a leading 1 in the reduced echelon form of A. A pivot column is a column of A that contains a pivot position.
 
@@ -30,12 +32,12 @@
    
 
 7. A computer program usually selects as a pivot the entry in a column having the largest absolute value. This strategy, called partial pivoting, is used because it reduces roundoff errors in the calculations.
-
 8. The variables theses corresponding to pivot columns in the matrix are called **basic variables**, otherwise, called **free variables**
-
 9. Whenever a system is inconsistent, the solution set is empty, even when the system has free variable. In this case, the solution set has no parametric representation
 
-10. 
+### 1.3 VECTOR Equations
+
+
 
   
 
