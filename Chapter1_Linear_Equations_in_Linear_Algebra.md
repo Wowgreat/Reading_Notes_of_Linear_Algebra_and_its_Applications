@@ -49,17 +49,17 @@
 
 ### 1.4 The MATRIX EQUATION Ax = b （Read it next time...）
 
-- ![](img\5.png)
+- ![](img/5.png)
 
-- ![](img\6.png)
+- ![](img/6.png)
 
 - The equation **Ax = b** has a solution if and only if b is a linear combination of columns of **A**
 
-- ![](img\7.png)
+- ![](img/7.png)
 
   **Warning** Theorem 4 is about a coefficient matrix, not an augmented matrix.
 
-- ![](img\8.png)
+- ![](img/8.png)
 
   if you want proof of above theorem, you can find it page 39 in a book named <Linear_Algebra_and_Its_Applications 5th>
 
