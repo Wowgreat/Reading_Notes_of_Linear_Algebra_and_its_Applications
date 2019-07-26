@@ -69,8 +69,8 @@
 
 - A system of linear equations is said to be **homogeneous** if it can be written in the form **Ax=0**, where **A** is an m*n matrix and **0** is the zero vector in **R^m**. Such a system **Ax=0** always has at least one solution, namely, **x=0**. This zero solution is usually called the **trivial solution**.
 - The **homogeneous** equation **Ax=0** has a **nontrivial solution** if and only if the equation has at least one free variable.
-- ![](img\9.png)
-- ![](img\10.png)
+- ![](img/9.png)
+- ![](img/10.png)
 
 ### 1.6 Applications of LINEAR SYSTEMS
 
@@ -78,9 +78,9 @@
 
 ### 1.7 LINEAR INDEPENDENCE
 
-- ![](img\11.png)
-- ![](img\12.png)
-- ![](img\13.png)
+- ![](img/11.png)
+- ![](img/12.png)
+- ![](img/13.png)
 - 
 
 
