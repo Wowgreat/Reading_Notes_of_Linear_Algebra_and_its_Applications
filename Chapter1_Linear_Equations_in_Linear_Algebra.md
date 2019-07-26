@@ -63,4 +63,25 @@
 
   if you want proof of above theorem, you can find it page 39 in a book named <Linear_Algebra_and_Its_Applications 5th>
 
+- To optimize a computer algorithm to compute **Ax**, the sequence of calculations should involve data stored in contiguous memory locations. The most widely used professional algorithms for matrix computations are written in Fortran, a language that stores a matrix as a set of columns. Such algorithms compute **Ax** as a linear combination of columns of **A**. In contrast, if a program is written in the popular language **C**, which stores matrices by rows, **Ax** should be computed via the alternative rule that uses the rows of **A**.
+
+### 1.5 SOLUTION SETS OF LINEAR SYSTEMS
+
+- A system of linear equations is said to be **homogeneous** if it can be written in the form **Ax=0**, where **A** is an m*n matrix and **0** is the zero vector in **R^m**. Such a system **Ax=0** always has at least one solution, namely, **x=0**. This zero solution is usually called the **trivial solution**.
+- The **homogeneous** equation **Ax=0** has a **nontrivial solution** if and only if the equation has at least one free variable.
+- ![](img\9.png)
+- ![](img\10.png)
+
+### 1.6 Applications of LINEAR SYSTEMS
+
+- Just three Applications in this chapter.
+
+### 1.7 LINEAR INDEPENDENCE
+
+- ![](img\11.png)
+- ![](img\12.png)
+- ![](img\13.png)
 - 
+
+
+
