@@ -81,7 +81,16 @@
 - ![](img/11.png)
 - ![](img/12.png)
 - ![](img/13.png)
+- ![](img/14.png)
+- ![](img/15.png)
+
+### 1.8 INTRODUCTION TO LINEAR TRANSFORMATIONS
+
+- ![](img/16.png)
+
+### 1.9 THE MATRIX OF A LINEAR TRANSFORMATION
+
+- ![](img/17.png)
+- ![](img/18.png)
+- ![](img/19.png)
 - 
-
-
-
