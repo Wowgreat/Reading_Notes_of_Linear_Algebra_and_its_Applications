@@ -10,11 +10,7 @@
 #### Matrix Multiplication
 
 - ![](img/22.png)
-
 - Each column of **AB** is a linear combination of the columns of **A** using weights from the corresponding column of **B**
-
-- **ROW-COLUMN RULE FOR COMPUTING AB**
-  If the product **AB** is defined, then the entry in row i and column j of **AB** is the sum of the products of correspoding entries from row i of **A** and column jof **B**. If  (**AB**)ij denotes the (i, k)-entry in **AB**, and if **A** is an *m x n* matrix, then 
-  **(AB)**ij  = ai1b1j + ai2b2j + ... + ainbnj
-
-  
+- ![](img/23.png)
+- ![](img/24.png)
+- 
