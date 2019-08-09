@@ -13,4 +13,5 @@
 - Each column of **AB** is a linear combination of the columns of **A** using weights from the corresponding column of **B**
 - ![](img/23.png)
 - ![](img/24.png)
+- ![](img/25.png)
 - 
