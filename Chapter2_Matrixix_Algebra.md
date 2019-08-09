@@ -14,4 +14,22 @@
 - ![](img/23.png)
 - ![](img/24.png)
 - ![](img/25.png)
-- 
+
+#### Powers of Matrix
+
+> Definition
+>
+> If **A** is an *n\*n*, matrix and if *k* is a positive integer, then $A^K$ denotes the product of *k* copies of **A**
+>
+> $A^K$ = A ---- A    （k A）
+
+#### The Transpose of Matrix
+
+- ![](img/26.png)
+
+- The generalization of Theorem above(d) to products of more than two factors can be stated in words as follows:
+
+  > The transpose of product of matrices equals the product of their transposes in the reverse order
+
+
+
