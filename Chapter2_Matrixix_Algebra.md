@@ -25,11 +25,30 @@
 
 #### The Transpose of Matrix
 
-- ![](img/26.png)
+- **THEOREM 3**![](img/26.png)
 
 - The generalization of Theorem above(d) to products of more than two factors can be stated in words as follows:
 
   > The transpose of product of matrices equals the product of their transposes in the reverse order
 
+-  **NUMERICAL NOTES**
+  - The fastest way to obtain **AB** on a computer depends on the way in which the computer stores matrices in its memory. The standard high-performance algorithms, such as in **LAPACK**, caculate **AB** by columns, as in our definition of the product. (A version of **LAPACK** written in C++ calculates **AB** by rows.)
+  - The definition of **AB** lends itself well to parallel processing on a computer. The columns of **B** are assigned individually or in groups to different processors, which independently and hence simultaneously compute the corresponding columns of **AB**.
 
+### 2.2 THE INVERSE OF A MATRIX
 
+- Only if in this case, ***CA = I*** **and** ***AC = I*** , ***C*** is **inverse** of ***A***. And ***C*** is uniquely determined by ***A***.
+
+- Here is a simple formula for the inverse of a 2*2 matrix, along with a test to tell if the inverse exists:
+  ![](img/27.png)
+  
+- ![](img/28.png)
+
+- **2.2 - THEOREM 6**
+  ![](img/29.png)
+
+- The generalization of Theorem 6(b):
+
+  #### The product of ***n \* n*** invertible matrices invertible, and the inverse is the product of their inverses in the reverse order.
+
+- **There is an import connection between invertible matrices and row operations that leads to a method for computing inverses. As we shall see, an invertible matrix *A* is row equivalent to an identity matrix, and we can find $A^-1$ by watching the *row reduction of A to I* **
