@@ -52,3 +52,15 @@
   #### The product of ***n \* n*** invertible matrices invertible, and the inverse is the product of their inverses in the reverse order.
 
 - **There is an import connection between invertible matrices and row operations that leads to a method for computing inverses. As we shall see, an invertible matrix *A* is row equivalent to an identity matrix, and we can find $A^-1$ by watching the *row reduction of A to I* **
+
+- ##### If an elementary row operation is performed on an *m\*n* matrix A, the resulting matrix can be written as *EA*, where the *m\*m* matrix *E* is created by performing the same row operation on *$I_m$*.
+
+- ##### Each elementary matrix *E* is invertible. The inverse of *E* is the elementary matrix of the same type that transforms *E* back into *I*.
+
+- **THEOREM 7**
+  ![](img/30.png)
+
+- ALGORITHM FOR FINDING $A^-1$
+  **Row  reduce the augmented matrix [*A I*]. If A is row equivalent to *I*, then [*A I*] is row equivalent to [*I $A^-1$*]. Otherwise, A dose not have an inverse.**
+
+- 
